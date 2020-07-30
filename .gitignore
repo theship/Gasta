@@ -63,3 +63,6 @@ public
 yarn-error.log
 
 README.html
+
+# IDE configs
+*.code-workspace
